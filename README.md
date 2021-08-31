@@ -5,4 +5,4 @@
 
 # 설명 ↓↓↓↓
 
-- https://duckgugong.tistory.com/193?
+- https://duckgugong.tistory.com/193
