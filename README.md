@@ -3,3 +3,6 @@
 - yarn add react-router-dom
 - yarn add redux react-redux
 
+# 설명 ↓↓↓↓
+
+- https://duckgugong.tistory.com/193?
